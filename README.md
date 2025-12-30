@@ -1,2 +1,2 @@
-# evaluation-test
-KH정보교육원 평가시험
+# course-assessment
+KH정보교육원 교과목평가
